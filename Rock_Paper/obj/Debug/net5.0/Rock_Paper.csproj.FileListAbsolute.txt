@@ -1,0 +1,16 @@
+D:\learning\PythonC#\Rock\new\Rock_Paper\Rock_Paper\bin\Debug\net5.0\Rock_Paper.exe
+D:\learning\PythonC#\Rock\new\Rock_Paper\Rock_Paper\bin\Debug\net5.0\Rock_Paper.deps.json
+D:\learning\PythonC#\Rock\new\Rock_Paper\Rock_Paper\bin\Debug\net5.0\Rock_Paper.runtimeconfig.json
+D:\learning\PythonC#\Rock\new\Rock_Paper\Rock_Paper\bin\Debug\net5.0\Rock_Paper.runtimeconfig.dev.json
+D:\learning\PythonC#\Rock\new\Rock_Paper\Rock_Paper\bin\Debug\net5.0\Rock_Paper.dll
+D:\learning\PythonC#\Rock\new\Rock_Paper\Rock_Paper\bin\Debug\net5.0\ref\Rock_Paper.dll
+D:\learning\PythonC#\Rock\new\Rock_Paper\Rock_Paper\bin\Debug\net5.0\Rock_Paper.pdb
+D:\learning\PythonC#\Rock\new\Rock_Paper\Rock_Paper\obj\Debug\net5.0\Rock_Paper.csprojAssemblyReference.cache
+D:\learning\PythonC#\Rock\new\Rock_Paper\Rock_Paper\obj\Debug\net5.0\Rock_Paper.GeneratedMSBuildEditorConfig.editorconfig
+D:\learning\PythonC#\Rock\new\Rock_Paper\Rock_Paper\obj\Debug\net5.0\Rock_Paper.AssemblyInfoInputs.cache
+D:\learning\PythonC#\Rock\new\Rock_Paper\Rock_Paper\obj\Debug\net5.0\Rock_Paper.AssemblyInfo.cs
+D:\learning\PythonC#\Rock\new\Rock_Paper\Rock_Paper\obj\Debug\net5.0\Rock_Paper.csproj.CoreCompileInputs.cache
+D:\learning\PythonC#\Rock\new\Rock_Paper\Rock_Paper\obj\Debug\net5.0\Rock_Paper.dll
+D:\learning\PythonC#\Rock\new\Rock_Paper\Rock_Paper\obj\Debug\net5.0\ref\Rock_Paper.dll
+D:\learning\PythonC#\Rock\new\Rock_Paper\Rock_Paper\obj\Debug\net5.0\Rock_Paper.pdb
+D:\learning\PythonC#\Rock\new\Rock_Paper\Rock_Paper\obj\Debug\net5.0\Rock_Paper.genruntimeconfig.cache
